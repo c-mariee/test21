@@ -1,14 +1,14 @@
 {
-  "name": "hello", 
+  "name": "hello",
   "version": "1.0.0",
   "description": "",
   "main": "hello.js",
   "dependencies": {
     "@actions/core": "^1.2.4",
     "@actions/github": "^3.0.0",
+    "express": "^4.18.2",
     "jest": "^26.0.1"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "jest",
     "start": "node hello.js"
