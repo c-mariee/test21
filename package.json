@@ -10,9 +10,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "jest"
+    "test": "jest",
     "start": "node hello.js"
-    
   },
   "author": "cheyenne.mariee14@gmail.com",
   "license": "MIT"
