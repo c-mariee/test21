@@ -14,5 +14,8 @@
     "start": "node hello.js"
   },
   "author": "cheyenne.mariee14@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "supertest": "^6.3.3"
+  }
 }
